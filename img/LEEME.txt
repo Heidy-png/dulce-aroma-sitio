@@ -1,0 +1,8 @@
+Fotos de Dulce Aroma (opcionales). Si no existen, el sitio muestra las ilustraciones de respaldo.
+
+  2.png             -> diapositiva 1 del carrusel (postres: pastel, cupcake, brownie)
+  1.png             -> diapositiva 2 del carrusel (bebidas: café, chocolate, frappé)
+  3.png             -> diapositiva 3 del carrusel (postre y bebida para compartir)
+  foto-producto.jpg -> sección "Sobre Dulce Aroma" (proporción 800 x 520)
+
+Usa fotos propias o de bancos gratuitos con permiso de uso (Unsplash, Pexels, Pixabay).

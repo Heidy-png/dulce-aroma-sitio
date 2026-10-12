@@ -1,0 +1,4 @@
+Logos de las herramientas de Google (opcionales). Si no existen, se muestra la letra inicial.
+
+Nombres de archivo (PNG): forms.png, docs.png, sheets.png, slides.png, drive.png, calendar.png, keep.png,
+meet.png, gmail.png, sites.png, fonts.png, looker-studio.png, analytics.png, trends.png, gemini.png

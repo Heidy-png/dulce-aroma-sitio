@@ -1,0 +1,12 @@
+/* Dulce Aroma - tema oscuro (se activa con data-tema="dark" en <html>) */
+:root[data-tema="dark"]{
+  --fondo:#1E1412; --panel:#2B1D1A; --linea:#E0A7B4; --sombra:#0E0807; --suave:#3B2824;
+  --texto:#F7EBE4; --tenue:#CDB3A9; --enlace:#F29BB3; --foco:#F2B14C;
+  --s1:#4A2230; --s2:#4B3516; --s3:#263A2E;
+}
+:root[data-tema="dark"] body{background-image:radial-gradient(rgba(242,155,179,.10) 1.6px,transparent 1.7px)}
+:root[data-tema="dark"] .ic .luna{display:none}
+:root[data-tema="dark"] .ic .sol{display:block}
+:root[data-tema="dark"] th{background:#8E2B49}
+:root[data-tema="dark"] .puntos button{border-color:#EAEFEB}
+:root[data-tema="dark"] .puntos button[aria-current="true"]{background:#EAEFEB}

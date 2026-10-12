@@ -1,0 +1,7 @@
+Música de fondo (opcional).
+
+Si pones aquí un archivo llamado  musica.mp3  , la página lo reproducirá en bucle cuando la persona pulse el botón de música.
+Si no hay archivo, la página genera por sí sola una melodía suave y tranquila (no necesita nada más).
+
+Usa solo música libre de derechos o con licencia que lo permita (por ejemplo Pixabay Music, YouTube Audio Library o Free Music Archive
+con licencias CC0 / CC BY). Si la licencia pide dar crédito, ponlo en el pie de página.
